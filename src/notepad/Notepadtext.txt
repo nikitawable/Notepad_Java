@@ -1,0 +1,1 @@
+This is a notepad developed using javax swing package functionalities.
